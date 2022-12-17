@@ -1,0 +1,50 @@
+body{
+    background-color: #befbff;
+}
+.baslik{
+    margin: auto;
+    width: 550px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #1abbb0;
+    text-align: center;
+    color: white;
+}
+.arkapilan{
+    margin: auto;
+    width: 550px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: #1abbb0;
+}
+.son{
+    margin: auto;
+    width: 550px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: #1abbb0;
+    color: white;
+    padding-left: 5px;
+}
+.girdi{
+    margin: auto;
+    position: relative;
+    width: 350px;
+    height: 60px;
+    top: 100px;
+    left: auto;
+}
+
+#kenar{
+    border-radius: 24px 4px;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+}
+
+#hesapla{
+    border-radius: 24px 4px;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+}
